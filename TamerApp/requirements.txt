@@ -1,0 +1,10 @@
+# Core runtime (CPU/GPU PyTorch installed separately via conda)
+numpy==1.26.4
+opencv-python==4.8.1.78
+streamlit==1.50.0
+einops==0.3.0
+# Prefer installing editdistance from conda-forge on Windows
+editdistance==0.8.1
+torchmetrics==0.6.0
+pytorch-lightning==1.4.9
+
