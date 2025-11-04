@@ -36,13 +36,13 @@ pip install fastapi uvicorn
 ### Bước 1: Chạy lệnh
 
 ```bash
-streamlit run pix2text/app.py
+streamlit run TamerApp/app.py
 ```
 
 Hoặc nếu bạn đang ở thư mục gốc của project:
 
 ```bash
-streamlit run pix2text/app.py
+streamlit run TamerApp/app.py
 ```
 
 ### Bước 2: Mở trình duyệt
